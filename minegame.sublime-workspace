@@ -1,0 +1,260 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dbCon",
+				"dbConfig"
+			],
+			[
+				"return",
+				"returnAll"
+			],
+			[
+				"thr",
+				"threadID"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"class",
+				"classPaths"
+			],
+			[
+				"spl_au",
+				"spl_autoload_register"
+			],
+			[
+				"co",
+				"controller"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"preg_mat",
+				"preg_match_all"
+			],
+			[
+				"db",
+				"dbConnection"
+			],
+			[
+				"sear",
+				"searchQuery"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "install pac",
+		"selected_items":
+		[
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 348.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jonathanthomas/Documents/VetWebsite/Views/ForumIndex.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/Views/Thread.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/Controllers/ErrorController.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/.htaccess",
+		"/Users/jonathanthomas/Documents/VetWebsite/Controllers/TestController.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/Config/dbConfig.json",
+		"/Users/jonathanthomas/Documents/VetWebsite/System/DatabaseConnection.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/Models/PostModel.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/Models/Model.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/Controllers/Controller.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/Config/Routes.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/Controllers/ForumController.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/System/Autoloader.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/index.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/template.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/styles/forum.css",
+		"/Users/jonathanthomas/Documents/VetWebsite/DatabaseConnection.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/PostModel.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/Model.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/Controller.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/config/Routes.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/views/Post.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/PostController.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/ftpsync.settings",
+		"/Users/jonathanthomas/Documents/VetWebsite/dynamicSearchTest.js",
+		"/Users/jonathanthomas/Documents/VetWebsite/views/Controller.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/Post.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/postModel.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/template-header.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/dynamicSearchTest.html",
+		"/Users/jonathanthomas/Documents/VetWebsite/dynamicSearchTest.php",
+		"/Users/jonathanthomas/Documents/VetWebsite/myProfile.html",
+		"/Users/jonathanthomas/Documents/VetWebsite/dynamicSearchTest.css",
+		"/C/Users/Jonathan/Documents/Tests/ftpsync.settings",
+		"/C/Users/Jonathan/Documents/Tests/test.php",
+		"/C/Users/Jonathan/Documents/Tests/test.html",
+		"/C/Users/Jonathan/Documents/Tests/test.css",
+		"/C/Users/Jonathan/Documents/Tests/test.js",
+		"/C/Users/Jonathan/Documents/Tests/Test.sublime-project",
+		"/C/Users/Jonathan/Documents/Test.cs"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "minegame.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
